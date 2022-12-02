@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "text": "deneme",
+    "uid": "XGuFwociAoSXbdPgDt4kjgwevg93",
+    "createdAt": "doc.data().createdAt",
+    "deleted": false,
+    "repliedTo": " doc.data().repliedTo",
+    "ruid": 1,
+    "rtext": "sd"
+  },
+  {
+    "id": 1,
+    "text": "deneme",
+    "uid": 1,
+    "createdAt": "doc.data().createdAt",
+    "deleted": false,
+    "repliedTo": " doc.data().repliedTo",
+    "ruid": 1,
+    "rtext": "sd"
+  }
+]
